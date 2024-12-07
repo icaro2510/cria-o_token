@@ -1085,3 +1085,4 @@ C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\Conteudo ativi.04\MATERIAL-
 C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\Conteudo ativi.04\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.Up2Date
 C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\Conteudo ativi.04\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\Conteudo ativi.04\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\Ícaro e Adriana\OneDrive\Área de Trabalho\Conteudo ativi.04\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
